@@ -15,7 +15,7 @@ public class CovidDataReader {
     } 
     
     public LinkedList<CovidRecord> readCovidFile(String covidFileName) {
-        return "";
+        //Reaturn Data in a linked list
     }
 
 }
